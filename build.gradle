@@ -1,0 +1,13 @@
+task prabhu {
+
+    doLast{
+        println "Thank you jesus"
+    }
+}
+
+task marry {
+
+    doLast{
+        println "I am very bad god"
+    }
+}
