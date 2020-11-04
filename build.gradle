@@ -1,7 +1,7 @@
 task prabhu {
 
     doLast{
-        println "Thank you jesus"
+        println "Thank you Lord"
     }
 }
 
